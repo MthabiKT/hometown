@@ -1,0 +1,33 @@
+.hero {
+  text-align: center;
+}
+h1,
+h3 {
+  font-family: "DM Serif Display", serif;
+  color: white;
+}
+
+h1 {
+  padding-top: 300px;
+}
+.image-one {
+  background: url("src/chubeka.jpg") rgb(73, 72, 72);
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-position: top;
+  height: 1000px;
+}
+.image-two {
+  background: url("src/swazi-mobilejpg.jpg"), rgb(73, 72, 72);
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-position: top;
+  height: 1000px;
+}
+.image-three {
+  background: url("src/mlilwane.jpg") rgb(73, 72, 72);
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-position: top;
+  height: 1000px;
+}
